@@ -4,3 +4,8 @@ A simple Android application that increases your amount of money everytime you t
 [Layout file for this application](app/src/main/res/layout/activity_main.xml)
 
 [Main Activity file](app/src/main/java/com/example/makeitrain/MainActivity.java)
+
+Screenshot of application:
+<p align="center">
+      <img src="https://github.com/kailongli27/MakeItRain/blob/master/MakeItRain_Screenshot.png" width="350" height="600" title = "AppScreenshot">
+</p
